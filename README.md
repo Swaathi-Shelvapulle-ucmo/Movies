@@ -101,6 +101,7 @@ The project must be run in the following sequence:
 ## Project structure
 ```
 ├── app.py               # Streamlit dashboard (UI + visualization)
+├── data/imdb.csv        # 50k kaggle IMDB Movie Dataset
 ├── processor.py         # NLP pipeline & preprocessing logic
 ├── model_trainer.py     # Training engine for ensemble models
 ├── models/              # Exported trained models (.pkl files)
