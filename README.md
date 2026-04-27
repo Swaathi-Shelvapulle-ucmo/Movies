@@ -44,20 +44,24 @@ Side-by-side comparison of:
 
 ### 1️⃣ Installation  
 
-```bash
+
 # Create Environment
-python -m venv venv
-
-# Activate (Mac/Linux)
-source venv/bin/activate
-
-# Activate (Windows)
-venv\Scripts\activate
-
-# Install Dependencies
-pip install -r requirements.txt
-
 ```
+python -m venv venv
+```
+# Activate (Mac/Linux)
+```
+source venv/bin/activate
+```
+# Activate (Windows)
+```
+venv\Scripts\activate
+```
+# Install Dependencies
+```
+pip install -r requirements.txt
+```
+
 ### 📊 Dataset Requirement
 
 This project utilizes the **IMDB Dataset of 50K Movie Reviews**. Due to GitHub's file size limitations, the raw CSV is not included in this repository. 
