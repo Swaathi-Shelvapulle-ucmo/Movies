@@ -63,7 +63,7 @@ pip install -r requirements.txt
 This project utilizes the **IMDB Dataset of 50K Movie Reviews**. Due to GitHub's file size limitations, the raw CSV is not included in this repository. 
 
 1. Download the dataset from Kaggle: [IMDB Dataset (50K Reviews)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-2. Rename the file to `IMDB Dataset.csv` and place it in the project root directory.
+2. Rename the file to `data/imdb.csv` and place it in the project root directory.
 3. Run `python3 processor.py` to begin the pipeline.
 
 
