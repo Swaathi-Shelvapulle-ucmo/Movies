@@ -4,6 +4,11 @@
 A high-fidelity NLP diagnostic tool that utilizes a **"Jury of Models"** to interrogate movie reviews, visualize emotional trajectories, and forecast commercial success through ensemble consensus.
 
 ---
+TEAM INFORMATION:
+SWAATHI SHELVAPULLE
+ANKITHA AMMU
+BALA ARAVIND
+
 
 ## 🚀 Key Features  
 
