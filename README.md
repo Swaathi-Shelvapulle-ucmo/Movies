@@ -5,8 +5,8 @@ A high-fidelity NLP diagnostic tool that utilizes a **"Jury of Models"** to inte
 
 ---
 TEAM INFORMATION:
-SWAATHI SHELVAPULLE
-ANKITHA AMMU
+SWAATHI SHELVAPULLE,
+ANKITHA AMMU,
 BALA ARAVIND
 
 
