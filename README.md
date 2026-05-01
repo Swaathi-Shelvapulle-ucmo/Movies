@@ -1,4 +1,5 @@
-# 🎬 Movie Review Sentiment Analysis 
+# 🎬 Multi-Architectural Narrative Intelligence for Movie   Review Sentiment Analysis
+
 ### Multi-Architectural Sentiment Auditing & Market Forecasting  
 
 A high-fidelity NLP diagnostic tool that utilizes a **"Jury of Models"** to interrogate movie reviews, visualize emotional trajectories, and forecast commercial success through ensemble consensus.
